@@ -1,0 +1,58 @@
+[
+  {
+    "idProduto":1001,
+    "nome":"Notebook",
+    "descricao":"Notebook Dell Inspiron",
+    "preco":3500.00,
+    "quantidadeEstoque": 5
+  },
+  {
+    "idProduto":1002,
+    "nome": "Mouse",
+    "descricao": "Mouse sem fio Logitech",
+    "preco": 50.00,
+    "quantidadeEstoque": 10
+  },
+  {
+    "idProduto":1003,
+    "nome": "Teclado",
+    "descricao": "Teclado mecânico RGB",
+    "preco": 150.00,
+    "quantidadeEstoque": 8
+  },
+  {
+    "idProduto":1004,
+    "nome": "Monitor",
+    "descricao": "Monitor 24 polegadas Full HD",
+    "preco": 800.00,
+    "quantidadeEstoque": 10
+  },
+  {
+    "idProduto":1005,
+    "nome": "Impressora",
+    "descricao": "Impressora jato de tinta multifuncional",
+    "preco": 600.00,
+    "quantidadeEstoque": 5
+  },
+  {
+    "idProduto":1006,
+    "nome": "Smartphone",
+    "descricao": "Smartphone Android com 128GB de armazenamento",
+    "preco": 2000.00,
+    "quantidadeEstoque": 15
+  },
+  {
+    "idProduto":1007,
+    "nome": "Tablet",
+    "descricao": "Tablet Samsung Galaxy Tab",
+    "preco": 1200.00,
+    "quantidadeEstoque": 12
+  },
+  {
+    "idProduto":1008,
+    "nome": "Cadeira Gamer",
+    "descricao": "Cadeira gamer ergonômica com apoio lombar",
+    "preco": 900.00,
+    "quantidadeEstoque": 7
+  }
+]
